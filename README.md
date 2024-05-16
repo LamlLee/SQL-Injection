@@ -19,7 +19,7 @@ There are three main types of SQL injection:
 - Out-of-Band SQL Injection: Attackers use different communication    channels (such as database email functionality or file writing and      loading functions) to perform the attack and obtain the results. This    type of attack is difficult to perform because the attacker needs to     communicate with the server and determine the features of the       database server used by the web application.
 
 The diagram below shows the different types of SQL injection:
-![image](https://github.com/LamlLee/SQL-Injection/assets/108409882/3c156a09-d222-4a09-b78f-37aa1d520b93)
+![Screenshot 2024-05-16 101917](https://github.com/LamlLee/SQL-Injection/assets/108409882/b5c1364b-233e-4a96-822e-05652eef53d1)
 
 ## SQL Injection Methodology 
 
