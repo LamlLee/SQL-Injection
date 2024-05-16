@@ -6,7 +6,7 @@ Structured Query Language (SQL) is a textual language used by a      database se
 # Examples of SQL Injection
 An SQL injection query exploits the normal execution of SQL. The attacker uses various SQL commands to modify the values in the databases.
 The following table lists some examples of SQL injection attacks:
-![image](https://github.com/LamlLee/SQL-Injection/assets/108409882/e583b1d5-a66e-4e67-a1b7-4a6afde0030a)
+![Screenshot 2024-05-16 094930](https://github.com/LamlLee/SQL-Injection/assets/108409882/5f7a8e09-1bd1-4761-96b9-dcfa584ef813)
 
 
 ## Types of SQL Injection
