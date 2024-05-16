@@ -1,7 +1,8 @@
 # What is SQL Injection?
 
 Structured Query Language (SQL) is a textual language used by a      database server. SQL commands used to perform operations on the      database include INSERT, SELECT, UPDATE, and DELETE. These commands  are used to manipulate data in the database server.
-      SQL injection attacks use a series of malicious SQL queries or SQL    statements to manipulate the database directly. An application    often    uses SQL statements to authenticate users to the    application,    validate roles and access levels, store and obtain    information for    the application and user, and link to other data    sources. SQL    injection attacks work because the application does    not properly    validate an input before passing it to an SQL    statement.
+
+SQL injection attacks use a series of malicious SQL queries or SQL    statements to manipulate the database directly. An application    often    uses SQL statements to authenticate users to the    application,    validate roles and access levels, store and obtain    information for    the application and user, and link to other data    sources. SQL    injection attacks work because the application does    not properly    validate an input before passing it to an SQL    statement.
 
 # Examples of SQL Injection
 An SQL injection query exploits the normal execution of SQL. The attacker uses various SQL commands to modify the values in the databases.
